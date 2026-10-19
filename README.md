@@ -42,7 +42,11 @@ Tested on game version 1.0.1491.50.
 
 ## Bugs / requests
 Open an [issue](../../issues) or post on my [discussion board](https://github.com/pavanpotluri27-sketch/pavanpotluri27-sketch/discussions).
-**I build custom mods and looks on request** (sky looks, powers, cinematic tools for YouTube creators) - ask there.
+**I build custom mods and looks on request** (sky looks, powers, cinematic tools for YouTube creators) - ask there or [open a Ko-fi commission](https://ko-fi.com/gamelover77511/commissions).
+
+## Support
+**[☕ Buy me a coffee on Ko-fi](https://ko-fi.com/gamelover77511)** - every coffee goes into new free mods.
+Want a custom mod, sky look or camera tool for your channel? **[Open a commission on Ko-fi](https://ko-fi.com/gamelover77511/commissions)**.
 
 ## More from me
 [Ghost Mode](https://github.com/pavanpotluri27-sketch/rdr2-ghost-mode) · all mods on [Nexus (RUDHRAAA)](https://www.nexusmods.com/profile/RUDHRAAA) · videos on [YouTube](https://www.youtube.com/@Bounty_Bandit_Gaming)
